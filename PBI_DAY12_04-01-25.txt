@@ -1,6 +1,8 @@
 ***************************************
 GOOD MORNING !!!
 
+Text Document Notes
+
 WELCOME TO POWER BI DAY 12
 
 SESSION STARTS BY 10:05 AM
@@ -16,7 +18,7 @@ Manage Parameters
 2)List of Values(Manual List Entry and Selection from the List)
 3)Query(Dynamic List)
 
-Task
+Tasks for the day
 ---------------
 1. Generate reports for all the months from january - december with 12 different excel sheets keeping in one folder
 2. Generate reports for all the months from january - december with in same excel sheet keeping in one folder
