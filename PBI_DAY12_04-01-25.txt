@@ -1,0 +1,47 @@
+***************************************
+GOOD MORNING !!!
+
+WELCOME TO POWER BI DAY 12
+
+SESSION STARTS BY 10:05 AM
+****************************************
+
+----------
+Parameters
+----------
+
+Manage Parameters
+
+1)Any Value(Manual Entry)
+2)List of Values(Manual List Entry and Selection from the List)
+3)Query(Dynamic List)
+
+Task
+---------------
+1. Generate reports for all the months from january - december with 12 different excel sheets keeping in one folder
+2. Generate reports for all the months from january - december with in same excel sheet keeping in one folder
+3. Create Parameters using all three option for city column
+4. Create 3 Parameters using all three options for Category(Office Supplies),Sub-Category(Paper),Product Name(Xerox)
+
+FUNCTION => IT IS A SMALL PROGRAM WHICH RUNS AND GIVES OUTPUT.
+SOMETIMES, FUNCTIONS TAKES INPUT, SOMETIMES IT DOES NOT TAKE ANY INPUT.
+
+PERFORM REPETITIVE TASKS... USE FUNCTIONS
+
+COLUMN FROM EXAMPLES
+INVOKE CUSTOM FUNCTION
+
+CREATE FUNCTIONS
+USE FUNCTIONS
+
+CREATE FUNCTION
+= () => OUTPUT
+
+X = 5
+Y = 6
+
+=(X,Y)=>X+Y
+
+ADVANCED EDITOR
+
+CSV FILE CREATION (COMMA SEPERATED VALUES)
